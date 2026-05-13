@@ -1,0 +1,25 @@
+services:
+  postgres:
+    image: postgres:18
+    container_name: lothric_psql
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: 1234
+      POSTGRES_DB: temp
+
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - lothric_psql_data:/var/lib/postgresql
+
+    networks:
+      - lothric_net
+
+volumes:
+  lothric_psql_data:
+
+networks:
+  lothric_net:
