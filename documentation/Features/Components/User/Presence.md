@@ -1,4 +1,4 @@
-User can manipulate their Staus using :
+- User can manipulate their Staus using :
 	- Idle
 	- DnD
 	- Online

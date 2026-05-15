@@ -1,4 +1,4 @@
-User can customize the following:
+- User can customize the following:
 	- Pfp
 	- Banner
 	- Tagline

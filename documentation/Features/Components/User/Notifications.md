@@ -1,4 +1,4 @@
-User recieves the following :
+- User recieves the following :
 	- Messages
 	- Voice Mail
 	- Burst Pop ups
