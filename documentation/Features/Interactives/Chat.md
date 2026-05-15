@@ -1,0 +1,7 @@
+- Enabled Users one-one interaction using :
+    - Message
+	- Stickers
+	- Emojis
+	- GIFS (tenor,giphy api)
+	- Draw Board
+    - Sign Languages
