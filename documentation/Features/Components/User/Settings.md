@@ -1,0 +1,5 @@
+User can customize the following:
+	- Pfp
+	- Banner
+	- Tagline
+	- Favorites

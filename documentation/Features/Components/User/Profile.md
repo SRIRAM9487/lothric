@@ -1,0 +1,6 @@
+User Can :
+	- View
+	- Edit
+	- Update
+	- Modify
+	- Customize

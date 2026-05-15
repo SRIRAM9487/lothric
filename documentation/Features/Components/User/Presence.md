@@ -1,0 +1,5 @@
+User can manipulate their Staus using :
+	- Idle
+	- DnD
+	- Online
+	- Offline

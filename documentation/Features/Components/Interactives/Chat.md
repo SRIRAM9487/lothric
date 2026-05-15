@@ -1,4 +1,3 @@
-
 - Interaction takes place through:  
 	- Text Messages  
 	- Voice Messages  

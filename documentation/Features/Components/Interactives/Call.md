@@ -1,5 +1,4 @@
-
-- Interaction takes place through:  
+Interaction takes place through:  
 	- Text Messages  
 	- Voice Chat  
 	- Video Calls  
@@ -12,4 +11,4 @@
 	- Live Streaming  
 	- Screen Sharing  
 	- Group Calls  
-	- Real-Time Presence Status
+	- Real Time Presence Status
