@@ -1,0 +1,4 @@
+- Can save :
+	- Passwords
+	- Messages
+	- Other ID

@@ -1,0 +1,7 @@
+- Selecting specific users to view your :
+	- Profile
+	- Tagline
+	- Status
+- Only Specific people can :
+	- Add in groups
+	- Send Friend request

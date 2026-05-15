@@ -1,0 +1,7 @@
+- Can store hidden things like :
+	- Recordings
+	- Messages
+	- Attachments
+	- Other Additional things
+		- Personal Notes
+		- Personal Data

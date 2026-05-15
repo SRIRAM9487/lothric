@@ -1,0 +1,4 @@
+- Stores :
+	- User based Encryption key
+	- Barcode
+	- Security Key

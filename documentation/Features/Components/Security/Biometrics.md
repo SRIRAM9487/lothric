@@ -1,0 +1,6 @@
+- Involves Mechanisms that uses biometrics for  :
+	- FingerPrint 
+		- Login
+		- Payments
+	- Face
+		- Login
