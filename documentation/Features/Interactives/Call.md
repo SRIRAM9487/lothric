@@ -1,4 +1,15 @@
-- Voice Enabled interaction
-- Video ""
-- Facial mode
-- Voice Mail
+
+- Interaction takes place through:  
+	- Text Messages  
+	- Voice Chat  
+	- Video Calls  
+	- Facial Mode  
+	- Face Expression Detection  
+	- Emotion Recognition  
+	- Face Filters / Effects  
+	- Voice Mail  
+	- Voice Notes  
+	- Live Streaming  
+	- Screen Sharing  
+	- Group Calls  
+	- Real-Time Presence Status

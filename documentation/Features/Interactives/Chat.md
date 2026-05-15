@@ -1,7 +1,20 @@
-- Enabled Users one-one interaction using :
-    - Message
-	- Stickers
-	- Emojis
-	- GIFS (tenor,giphy api)
-	- Draw Board
-    - Sign Languages
+
+- Interaction takes place through:  
+	- Text Messages  
+	- Voice Messages  
+	- Stickers  
+	- Emojis  
+	- GIF Support  
+		- Tenor API  
+		- Giphy API  
+	- Image Sharing  
+	- Video Sharing  
+	- File Sharing  
+	- Draw Board / Collaborative Canvas  
+	- Sign Language Communication  
+	- Audio Calls  
+	- Video Calls  
+	- Live Streaming  
+	- Screen Sharing  
+	- Message Reactions  
+	- Polls
