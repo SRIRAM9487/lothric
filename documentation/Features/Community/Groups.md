@@ -1,0 +1,3 @@
+- Can Perform :
+	- CRUD Groups
+	- Merge a Group with another

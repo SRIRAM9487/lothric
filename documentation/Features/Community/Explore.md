@@ -1,0 +1,7 @@
+- Can explore other `Servers` that involves :
+	- Music
+	- Gaming
+	- Entertainment
+	- Food
+	- Education
+	- CornHub

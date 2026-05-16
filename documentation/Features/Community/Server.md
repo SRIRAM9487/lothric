@@ -1,0 +1,3 @@
+- It involves :
+	- One - Many mapped interaction
+	- Many - Many mapped interaction
